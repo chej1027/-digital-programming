@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    list-style: none;
+ }
+
+h1 {
+    font-size: 24pt;
+    margin-top: 50px;
+    margin-left: 38px;
+    margin-bottom: 38px;
+}
+
+ul {
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+li {
+    font-size: 14px;
+    color: rgb(151, 151, 151);
+    margin-top: 5px;
+}
+h2 {
+    font-size: 16pt;
+    margin-top: 10px;
+    margin-left: 38px;
+    margin-bottom: 38px;
+    line-height: 28px;
+    color: rgb(151, 151, 151);
+}
