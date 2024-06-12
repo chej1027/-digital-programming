@@ -4,23 +4,23 @@
  }
 
 h1 {
-    font-size: 24pt;
+    font-size: 20pt;
     margin-top: 50px;
     margin-left: 38px;
     margin-bottom: 38px;
 }
 
 ul {
-    font-size: 20px;
+    font-size: 14px;
     margin-bottom: 30px;
 }
 li {
-    font-size: 14px;
+    font-size: 12px;
     color: rgb(151, 151, 151);
     margin-top: 5px;
 }
 h2 {
-    font-size: 16pt;
+    font-size: 14pt;
     margin-top: 10px;
     margin-left: 38px;
     margin-bottom: 38px;
